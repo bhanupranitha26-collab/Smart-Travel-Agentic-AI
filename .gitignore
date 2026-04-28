@@ -1,0 +1,14 @@
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins-dependencies
+
+# Node.js
+backend/node_modules/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
