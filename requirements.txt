@@ -1,0 +1,6 @@
+Flutter SDK
+Dart
+Node.js
+Express.js
+MongoDB
+Android Studio / VS Code
