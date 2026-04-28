@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "69ce04cd5cc6bf037897cec8",
+    "userId": "",
+    "place": "tamilnadu",
+    "date": "2026-04-02T11:25:25.955",
+    "trip_id": "tamilnadu_2026-04-02T11:25:03.231_2026-04-04T11:25:03.231",
+    "__v": 0
+  },
+  {
+    "_id": "69ce0da35cc6bf037897cefb",
+    "userId": "69ce04a85cc6bf037897cec6",
+    "place": "Araku",
+    "date": "2026-04-02T12:03:07.924",
+    "trip_id": "Araku_2026-04-05T00:00:00.000_2026-04-08T00:00:00.000",
+    "__v": 0
+  },
+  {
+    "_id": "69ce0f5b5cc6bf037897cf0a",
+    "userId": "69ce04a85cc6bf037897cec6",
+    "place": "madhya pradesh",
+    "date": "2026-04-02T12:10:27.387",
+    "trip_id": "madhya pradesh_2026-04-02T00:00:00.000_2026-04-04T00:00:00.000",
+    "__v": 0
+  }
+]

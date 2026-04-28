@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "69ce05005cc6bf037897cecc",
+    "userId": "",
+    "amount": 782,
+    "category": "food",
+    "date": "2026-04-02T11:26:16.390",
+    "description": "",
+    "trip_id": "tamilnadu_2026-04-02T11:25:03.231_2026-04-04T11:25:03.231",
+    "__v": 0
+  },
+  {
+    "_id": "69ce07cf5cc6bf037897ced9",
+    "userId": "69ce04a85cc6bf037897cec6",
+    "amount": 789,
+    "category": "food",
+    "date": "2026-04-02T11:38:15.565",
+    "description": "",
+    "trip_id": "goa_2026-04-02T11:37:08.973_2026-04-04T11:37:08.973",
+    "__v": 0
+  },
+  {
+    "_id": "69ce0a315cc6bf037897cee3",
+    "userId": "",
+    "amount": 5848,
+    "category": "stay",
+    "date": "2026-04-02T11:48:25.639",
+    "description": "",
+    "trip_id": "delhi_2026-04-02T11:47:32.681_2026-04-04T11:47:32.681",
+    "__v": 0
+  },
+  {
+    "_id": "69ce0dce5cc6bf037897cefd",
+    "userId": "69ce04a85cc6bf037897cec6",
+    "amount": 10000,
+    "category": "Shopping",
+    "date": "2026-04-02T12:03:50.675",
+    "description": "",
+    "trip_id": "Araku_2026-04-05T00:00:00.000_2026-04-08T00:00:00.000",
+    "__v": 0
+  },
+  {
+    "_id": "69ce0dda5cc6bf037897ceff",
+    "userId": "69ce04a85cc6bf037897cec6",
+    "amount": 5000,
+    "category": "Food",
+    "date": "2026-04-02T12:04:02.746",
+    "description": "",
+    "trip_id": "Araku_2026-04-05T00:00:00.000_2026-04-08T00:00:00.000",
+    "__v": 0
+  },
+  {
+    "_id": "69ce0f755cc6bf037897cf0c",
+    "userId": "69ce04a85cc6bf037897cec6",
+    "amount": 1000,
+    "category": "Exhibition",
+    "date": "2026-04-02T12:10:53.976",
+    "description": "",
+    "trip_id": "madhya pradesh_2026-04-02T00:00:00.000_2026-04-04T00:00:00.000",
+    "__v": 0
+  },
+  {
+    "_id": "69ce0f9a5cc6bf037897cf0e",
+    "userId": "69ce04a85cc6bf037897cec6",
+    "amount": 5000,
+    "category": "Transport",
+    "date": "2026-04-02T12:11:30.264",
+    "description": "",
+    "trip_id": "madhya pradesh_2026-04-02T00:00:00.000_2026-04-04T00:00:00.000",
+    "__v": 0
+  }
+]
