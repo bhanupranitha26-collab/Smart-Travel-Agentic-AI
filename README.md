@@ -1,5 +1,8 @@
 # Smart Travel Tracking Using Agentic AI
 
+## Live Demo
+🚀 Try the App: https://lucent-bublanina-f1c150.netlify.app/
+
 ## Overview
 Smart Travel is an AI-powered travel assistant application that helps users plan trips, track expenses, and get personalized travel recommendations in real time.
 
